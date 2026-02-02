@@ -1,4 +1,4 @@
-# gstow (initial stow clone)
+# gstow
 
 This repository provides a minimal, cross-platform Go implementation of a GNU Stow-compatible `stow` command. The initial scope supports only the `stow` command and a dry-run mode.
 
